@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="480" viewBox="0 0 720 480" fill="none">
+  <rect width="720" height="480" rx="20" fill="#E8DDD0"/>
+  <rect x="42" y="35" width="636" height="410" rx="13" fill="#F8F4ED"/>
+  <text x="77" y="91" fill="#3E4438" font-family="Georgia,serif" font-size="23" letter-spacing="2">MAISON AUBE</text>
+  <text x="512" y="88" fill="#5D6358" font-family="Arial,sans-serif" font-size="11">COLLECTIONS  À PROPOS</text>
+  <rect x="76" y="119" width="568" height="292" rx="7" fill="#D7C2A9"/>
+  <path d="M76 321C174 256 244 294 330 271C439 242 522 264 644 183V411H76V321Z" fill="#B18F70"/>
+  <circle cx="495" cy="204" r="47" fill="#E6D69B"/>
+  <path d="M128 369L225 220L319 369H128Z" fill="#EFE7D9"/>
+  <path d="M260 369L366 195L472 369H260Z" fill="#73806A"/>
+  <path d="M393 369L490 239L591 369H393Z" fill="#D8C8AF"/>
+  <path d="M253 411V334C253 305 277 281 306 281C335 281 359 305 359 334V411H253Z" fill="#77614E"/>
+  <rect x="282" y="334" width="49" height="77" fill="#D9C4A6"/>
+</svg>
