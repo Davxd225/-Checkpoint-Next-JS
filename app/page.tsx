@@ -63,11 +63,13 @@ export default function Home() {
           <div className="project-grid">
             <ProjectCard
               title="Boutique d’articles sportifs"
-              githubUrl="https://github.com/Davxd225?tab=repositories"
+              imageSrc="/images/Capture d’écran_16-10-2026_211036_mondialsport.sowcoder.com.jpeg"
+              imageAlt="Page d’accueil de la boutique Mondial Sport"
             />
             <ProjectCard
-              title="Site pour un petit restaurant"
-              githubUrl="https://github.com/Davxd225?tab=repositories"
+              title="Boutique de produits technologiques"
+              imageSrc="/images/Capture d’écran_16-10-2026_212159_smarttech-2k2n.onrender.com.jpeg"
+              imageAlt="Page d’accueil de la boutique SmartTech"
             />
           </div>
         </section>
